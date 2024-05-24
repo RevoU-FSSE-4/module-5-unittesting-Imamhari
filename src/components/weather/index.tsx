@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Search from "../search";
+import Search from "../search/search";
 
 interface WeatherData {
   name: string;
